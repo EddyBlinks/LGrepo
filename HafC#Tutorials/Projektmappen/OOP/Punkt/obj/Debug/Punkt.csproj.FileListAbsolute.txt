@@ -1,0 +1,7 @@
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\obj\Debug\Punkt.csprojResolveAssemblyReference.cache
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\obj\Debug\Punkt.csproj.CoreCompileInputs.cache
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\bin\Debug\Punkt.exe.config
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\bin\Debug\Punkt.exe
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\bin\Debug\Punkt.pdb
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\obj\Debug\Punkt.exe
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Punkt\obj\Debug\Punkt.pdb

@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\bin\Debug\MehrfacheFallunterscheidung.exe.config
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\bin\Debug\MehrfacheFallunterscheidung.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\bin\Debug\MehrfacheFallunterscheidung.pdb
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\obj\Debug\MehrfacheFallunterscheidung.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\obj\Debug\MehrfacheFallunterscheidung.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\obj\Debug\MehrfacheFallunterscheidung.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\MehrfacheFallunterscheidung\obj\Debug\MehrfacheFallunterscheidung.pdb

@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\bin\Debug\Klassen.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\bin\Debug\Klassen.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\bin\Debug\Klassen.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\obj\Debug\Klassen.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\obj\Debug\Klassen.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\obj\Debug\Klassen.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Klassen\obj\Debug\Klassen.pdb

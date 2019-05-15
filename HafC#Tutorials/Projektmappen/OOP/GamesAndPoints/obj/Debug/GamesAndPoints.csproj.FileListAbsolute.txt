@@ -1,0 +1,14 @@
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.exe.config
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.exe
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.pdb
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.csprojResolveAssemblyReference.cache
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.csproj.CoreCompileInputs.cache
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.exe
+C:/Users/thorsten.hafner/source/repos/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.pdb
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.exe.config
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.exe
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Debug/GamesAndPoints.pdb
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.csprojAssemblyReference.cache
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.exe
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Debug/GamesAndPoints.pdb

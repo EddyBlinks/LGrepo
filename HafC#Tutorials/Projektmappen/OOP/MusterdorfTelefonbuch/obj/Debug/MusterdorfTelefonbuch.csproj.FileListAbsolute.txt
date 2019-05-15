@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\bin\Debug\MusterdorfTelefonbuch.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\bin\Debug\MusterdorfTelefonbuch.exe
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\bin\Debug\MusterdorfTelefonbuch.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\obj\Debug\MusterdorfTelefonbuch.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\obj\Debug\MusterdorfTelefonbuch.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\obj\Debug\MusterdorfTelefonbuch.exe
+C:\Users\thorsten.hafner\source\repos\OOP\MusterdorfTelefonbuch\obj\Debug\MusterdorfTelefonbuch.pdb

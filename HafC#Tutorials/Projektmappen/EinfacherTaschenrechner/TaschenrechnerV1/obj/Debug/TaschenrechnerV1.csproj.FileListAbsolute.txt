@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\bin\Debug\TaschenrechnerV1.exe.config
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\bin\Debug\TaschenrechnerV1.exe
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\bin\Debug\TaschenrechnerV1.pdb
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\obj\Debug\TaschenrechnerV1.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\obj\Debug\TaschenrechnerV1.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\obj\Debug\TaschenrechnerV1.exe
+C:\Users\thorsten.hafner\source\repos\EinfacherTaschenrechner\TaschenrechnerV1\obj\Debug\TaschenrechnerV1.pdb

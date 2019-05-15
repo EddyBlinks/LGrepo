@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\bin\Debug\Geometrie.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\bin\Debug\Geometrie.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\bin\Debug\Geometrie.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\obj\Debug\Geometrie.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\obj\Debug\Geometrie.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Geometrie\obj\Debug\Geometrie.pdb

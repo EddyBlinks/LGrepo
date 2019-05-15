@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\bin\Debug\Addition.exe.config
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\bin\Debug\Addition.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\bin\Debug\Addition.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\obj\Debug\Addition.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Addition\obj\Debug\Addition.pdb

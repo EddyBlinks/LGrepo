@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\bin\Debug\WertVsVerweis.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\bin\Debug\WertVsVerweis.exe
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\bin\Debug\WertVsVerweis.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\obj\Debug\WertVsVerweis.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\obj\Debug\WertVsVerweis.exe
+C:\Users\thorsten.hafner\source\repos\OOP\WertVsVerweis\obj\Debug\WertVsVerweis.pdb

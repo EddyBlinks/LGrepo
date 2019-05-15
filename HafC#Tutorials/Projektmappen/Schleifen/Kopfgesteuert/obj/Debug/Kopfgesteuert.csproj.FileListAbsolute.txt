@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\bin\Debug\Kopfgesteuert.exe.config
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\bin\Debug\Kopfgesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\bin\Debug\Kopfgesteuert.pdb
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\obj\Debug\Kopfgesteuert.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\obj\Debug\Kopfgesteuert.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\obj\Debug\Kopfgesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Kopfgesteuert\obj\Debug\Kopfgesteuert.pdb

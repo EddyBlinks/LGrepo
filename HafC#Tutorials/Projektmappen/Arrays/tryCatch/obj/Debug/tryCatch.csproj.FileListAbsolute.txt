@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\bin\Debug\tryCatch.exe.config
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\tryCatch\obj\Debug\tryCatch.pdb

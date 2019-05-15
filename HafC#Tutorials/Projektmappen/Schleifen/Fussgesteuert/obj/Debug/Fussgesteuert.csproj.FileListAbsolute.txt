@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\bin\Debug\Fussgesteuert.exe.config
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\bin\Debug\Fussgesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\bin\Debug\Fussgesteuert.pdb
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\obj\Debug\Fussgesteuert.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\obj\Debug\Fussgesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\obj\Debug\Fussgesteuert.pdb
+C:\Users\thorsten.hafner\source\repos\Schleifen\Fussgesteuert\obj\Debug\Fussgesteuert.csprojResolveAssemblyReference.cache

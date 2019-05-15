@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\bin\Debug\EinfacheFallunterscheidung.exe.config
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\bin\Debug\EinfacheFallunterscheidung.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\bin\Debug\EinfacheFallunterscheidung.pdb
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\obj\Debug\EinfacheFallunterscheidung.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\obj\Debug\EinfacheFallunterscheidung.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\EinfacheFallunterscheidung\obj\Debug\EinfacheFallunterscheidung.pdb

@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\bin\Debug\Methoden.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\bin\Debug\Methoden.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\bin\Debug\Methoden.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\obj\Debug\Methoden.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\obj\Debug\Methoden.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\obj\Debug\Methoden.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Methoden\obj\Debug\Methoden.pdb

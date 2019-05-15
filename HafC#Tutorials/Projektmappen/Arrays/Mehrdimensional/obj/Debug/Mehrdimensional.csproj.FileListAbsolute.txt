@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\bin\Debug\Mehrdimensional.exe.config
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\bin\Debug\Mehrdimensional.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\bin\Debug\Mehrdimensional.pdb
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\obj\Debug\Mehrdimensional.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\obj\Debug\Mehrdimensional.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Mehrdimensional\obj\Debug\Mehrdimensional.pdb

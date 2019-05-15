@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\bin\Debug\DerName.exe.config
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\bin\Debug\DerName.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\bin\Debug\DerName.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\obj\Debug\DerName.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\obj\Debug\DerName.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\DerName\obj\Debug\DerName.pdb

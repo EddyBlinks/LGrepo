@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\bin\Debug\ArithmetischeOperatoren.exe.config
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\bin\Debug\ArithmetischeOperatoren.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\bin\Debug\ArithmetischeOperatoren.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\obj\Debug\ArithmetischeOperatoren.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\obj\Debug\ArithmetischeOperatoren.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\obj\Debug\ArithmetischeOperatoren.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ArithmetischeOperatoren\obj\Debug\ArithmetischeOperatoren.csprojResolveAssemblyReference.cache
