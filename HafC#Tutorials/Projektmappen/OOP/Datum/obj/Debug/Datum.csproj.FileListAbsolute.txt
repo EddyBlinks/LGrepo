@@ -1,0 +1,7 @@
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\bin\Debug\Datum.exe.config
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\bin\Debug\Datum.exe
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\bin\Debug\Datum.pdb
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\obj\Debug\Datum.csprojResolveAssemblyReference.cache
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\obj\Debug\Datum.csproj.CoreCompileInputs.cache
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\obj\Debug\Datum.exe
+Y:\FI U 18 4\Hafner\Projektmappen\OOP\Datum\obj\Debug\Datum.pdb

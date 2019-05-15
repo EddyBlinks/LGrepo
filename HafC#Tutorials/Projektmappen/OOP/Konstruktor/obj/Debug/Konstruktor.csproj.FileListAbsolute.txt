@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\bin\Debug\Konstruktor.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\bin\Debug\Konstruktor.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\bin\Debug\Konstruktor.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\obj\Debug\Konstruktor.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\obj\Debug\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\obj\Debug\Konstruktor.exe
+C:\Users\thorsten.hafner\source\repos\OOP\Konstruktor\obj\Debug\Konstruktor.pdb

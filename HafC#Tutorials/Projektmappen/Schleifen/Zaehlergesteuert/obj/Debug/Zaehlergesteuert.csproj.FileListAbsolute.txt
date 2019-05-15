@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\bin\Debug\Zaehlergesteuert.exe.config
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\bin\Debug\Zaehlergesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\bin\Debug\Zaehlergesteuert.pdb
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\obj\Debug\Zaehlergesteuert.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\obj\Debug\Zaehlergesteuert.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Zaehlergesteuert\obj\Debug\Zaehlergesteuert.pdb

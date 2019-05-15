@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\bin\Debug\UnsereHighscore.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\bin\Debug\UnsereHighscore.exe
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\bin\Debug\UnsereHighscore.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\obj\Debug\UnsereHighscore.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\obj\Debug\UnsereHighscore.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\obj\Debug\UnsereHighscore.exe
+C:\Users\thorsten.hafner\source\repos\OOP\UnsereHighscore\obj\Debug\UnsereHighscore.pdb

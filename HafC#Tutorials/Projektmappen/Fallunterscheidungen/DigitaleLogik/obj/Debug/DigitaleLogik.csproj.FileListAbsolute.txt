@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\bin\Debug\DigitaleLogik.exe.config
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\bin\Debug\DigitaleLogik.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\bin\Debug\DigitaleLogik.pdb
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\obj\Debug\DigitaleLogik.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\obj\Debug\DigitaleLogik.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\obj\Debug\DigitaleLogik.exe
+C:\Users\thorsten.hafner\source\repos\Fallunterscheidungen\DigitaleLogik\obj\Debug\DigitaleLogik.pdb

@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\bin\Debug\HierGehtsUmBuecher.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\bin\Debug\HierGehtsUmBuecher.exe
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\bin\Debug\HierGehtsUmBuecher.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\obj\Debug\HierGehtsUmBuecher.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\obj\Debug\HierGehtsUmBuecher.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\obj\Debug\HierGehtsUmBuecher.exe
+C:\Users\thorsten.hafner\source\repos\OOP\HierGehtsUmBuecher\obj\Debug\HierGehtsUmBuecher.pdb

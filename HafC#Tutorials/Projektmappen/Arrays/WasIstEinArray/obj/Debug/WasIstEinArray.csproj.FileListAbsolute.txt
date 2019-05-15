@@ -1,0 +1,7 @@
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\bin\Debug\WasIstEinArray.exe.config
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\bin\Debug\WasIstEinArray.exe
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\bin\Debug\WasIstEinArray.pdb
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\obj\Debug\WasIstEinArray.csprojResolveAssemblyReference.cache
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\obj\Debug\WasIstEinArray.csproj.CoreCompileInputs.cache
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\obj\Debug\WasIstEinArray.exe
+c:\users\thorsten.hafner\source\repos\Arrays\WasIstEinArray\obj\Debug\WasIstEinArray.pdb

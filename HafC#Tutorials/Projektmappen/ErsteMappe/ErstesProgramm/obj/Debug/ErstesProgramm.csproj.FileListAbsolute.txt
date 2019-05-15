@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\bin\Debug\ErstesProgramm.exe.config
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\bin\Debug\ErstesProgramm.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\bin\Debug\ErstesProgramm.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\obj\Debug\ErstesProgramm.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\obj\Debug\ErstesProgramm.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\obj\Debug\ErstesProgramm.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\ErstesProgramm\obj\Debug\ErstesProgramm.pdb

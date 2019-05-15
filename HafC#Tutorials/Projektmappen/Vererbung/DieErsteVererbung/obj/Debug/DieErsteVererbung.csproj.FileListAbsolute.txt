@@ -1,0 +1,7 @@
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\bin\Debug\DieErsteVererbung.exe.config
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\bin\Debug\DieErsteVererbung.exe
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\bin\Debug\DieErsteVererbung.pdb
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\obj\Debug\DieErsteVererbung.csprojResolveAssemblyReference.cache
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\obj\Debug\DieErsteVererbung.csproj.CoreCompileInputs.cache
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\obj\Debug\DieErsteVererbung.exe
+c:\users\thorsten.hafner\source\repos\Vererbung\DieErsteVererbung\obj\Debug\DieErsteVererbung.pdb

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1503F0D9-DBB7-4450-8F41-72F3F2255C9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Kopfgesteuert PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fussgesteuert/Program.cs">
+    <Files>
+      <File FileName="Kopfgesteuert/Program.cs" Line="1" Column="1" />
+      <File FileName="Zaehlergesteuert/Program.cs" Line="1" Column="1" />
+      <File FileName="Fussgesteuert/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Schleifen" expanded="True">
+            <Node name="Fussgesteuert" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Kopfgesteuert" expanded="True" />
+            <Node name="Zaehlergesteuert" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

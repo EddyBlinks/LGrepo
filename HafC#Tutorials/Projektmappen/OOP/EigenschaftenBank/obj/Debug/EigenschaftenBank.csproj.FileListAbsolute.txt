@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\bin\Debug\EigenschaftenBank.exe.config
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\bin\Debug\EigenschaftenBank.exe
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\bin\Debug\EigenschaftenBank.pdb
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\obj\Debug\EigenschaftenBank.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\obj\Debug\EigenschaftenBank.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\obj\Debug\EigenschaftenBank.exe
+C:\Users\thorsten.hafner\source\repos\OOP\EigenschaftenBank\obj\Debug\EigenschaftenBank.pdb

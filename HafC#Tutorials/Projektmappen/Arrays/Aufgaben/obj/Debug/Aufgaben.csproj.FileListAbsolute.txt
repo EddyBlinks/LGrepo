@@ -1,0 +1,6 @@
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\bin\Debug\Aufgaben.exe.config
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\bin\Debug\Aufgaben.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\bin\Debug\Aufgaben.pdb
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\obj\Debug\Aufgaben.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\obj\Debug\Aufgaben.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Aufgaben\obj\Debug\Aufgaben.pdb

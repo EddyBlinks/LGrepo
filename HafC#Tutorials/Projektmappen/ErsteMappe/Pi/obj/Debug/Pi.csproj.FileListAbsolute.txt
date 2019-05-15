@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\bin\Debug\Pi.exe.config
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\bin\Debug\Pi.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\bin\Debug\Pi.pdb
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\obj\Debug\Pi.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\obj\Debug\Pi.exe
+C:\Users\thorsten.hafner\source\repos\ErsteMappe\Pi\obj\Debug\Pi.pdb

@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\bin\Debug\Uebung.exe.config
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\bin\Debug\Uebung.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\bin\Debug\Uebung.pdb
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\obj\Debug\Uebung.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\obj\Debug\Uebung.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\obj\Debug\Uebung.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\Uebung\obj\Debug\Uebung.pdb

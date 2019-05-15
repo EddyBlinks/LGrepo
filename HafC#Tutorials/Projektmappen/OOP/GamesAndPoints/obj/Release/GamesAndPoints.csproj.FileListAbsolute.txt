@@ -1,0 +1,6 @@
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Release/GamesAndPoints.exe.config
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Release/GamesAndPoints.exe
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/bin/Release/GamesAndPoints.pdb
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Release/GamesAndPoints.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Release/GamesAndPoints.exe
+/Users/admin/Desktop/Hafner/Projektmappen/OOP/GamesAndPoints/obj/Release/GamesAndPoints.pdb

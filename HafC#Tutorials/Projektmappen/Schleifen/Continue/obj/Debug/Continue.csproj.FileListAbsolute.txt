@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\bin\Debug\Continue.exe.config
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\bin\Debug\Continue.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\bin\Debug\Continue.pdb
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\obj\Debug\Continue.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\obj\Debug\Continue.exe
+C:\Users\thorsten.hafner\source\repos\Schleifen\Continue\obj\Debug\Continue.pdb

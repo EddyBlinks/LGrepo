@@ -1,0 +1,7 @@
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\bin\Debug\jaggedArray.exe.config
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\bin\Debug\jaggedArray.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\bin\Debug\jaggedArray.pdb
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\obj\Debug\jaggedArray.csprojResolveAssemblyReference.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\obj\Debug\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\obj\Debug\jaggedArray.exe
+C:\Users\thorsten.hafner\source\repos\Arrays\jaggedArray\obj\Debug\jaggedArray.pdb
